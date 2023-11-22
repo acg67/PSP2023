@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edc069cc-128c-4027-ae71-75878733c6d3" name="Changes" comment="" />
+    <list default="true" id="edc069cc-128c-4027-ae71-75878733c6d3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Concurrent.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,8 +35,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/alejandro.company/Desktop/Clases/Repo/Concurrent",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/alejandro.company/Desktop/Clases/Repo",
     "onboarding.tips.debug.path": "C:/Users/alejandro.company/IdeaProjects/U1P11/Thread2.3/src/Main.java"
   }
 }]]></component>
@@ -43,7 +46,7 @@
       <recent name="Class1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Class2.Main">
     <configuration name="Class1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class1.Main" />
       <module name="Concurrent" />
